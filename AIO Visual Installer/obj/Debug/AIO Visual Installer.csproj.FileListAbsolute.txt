@@ -1,0 +1,14 @@
+C:\Users\Arshia\source\repos\AIO Visual Installer\AIO Visual Installer\bin\Debug\AIO Visual Installer.exe.config
+C:\Users\Arshia\source\repos\AIO Visual Installer\AIO Visual Installer\bin\Debug\AIO Visual Installer.exe
+C:\Users\Arshia\source\repos\AIO Visual Installer\AIO Visual Installer\bin\Debug\AIO Visual Installer.pdb
+C:\Users\Arshia\source\repos\AIO Visual Installer\AIO Visual Installer\obj\Debug\AIO Visual Installer.csproj.CoreCompileInputs.cache
+C:\Users\Arshia\source\repos\AIO Visual Installer\AIO Visual Installer\obj\Debug\AIO Visual Installer.exe
+C:\Users\Arshia\source\repos\AIO Visual Installer\AIO Visual Installer\obj\Debug\AIO Visual Installer.pdb
+C:\Users\Arshia\source\repos\AIO Visual Installer\AIO Visual Installer\obj\Debug\AIO Visual Installer.csprojAssemblyReference.cache
+C:\Users\Arshi\Desktop\AIO-INSTALLER-main\AIO Visual Installer\AIO Visual Installer\AIO Visual Installer\bin\Debug\AIO Visual Installer.exe.config
+C:\Users\Arshi\Desktop\AIO-INSTALLER-main\AIO Visual Installer\AIO Visual Installer\AIO Visual Installer\bin\Debug\AIO Visual Installer.exe
+C:\Users\Arshi\Desktop\AIO-INSTALLER-main\AIO Visual Installer\AIO Visual Installer\AIO Visual Installer\bin\Debug\AIO Visual Installer.pdb
+C:\Users\Arshi\Desktop\AIO-INSTALLER-main\AIO Visual Installer\AIO Visual Installer\AIO Visual Installer\obj\Debug\AIO Visual Installer.csproj.CoreCompileInputs.cache
+C:\Users\Arshi\Desktop\AIO-INSTALLER-main\AIO Visual Installer\AIO Visual Installer\AIO Visual Installer\obj\Debug\AIO Visual Installer.exe
+C:\Users\Arshi\Desktop\AIO-INSTALLER-main\AIO Visual Installer\AIO Visual Installer\AIO Visual Installer\obj\Debug\AIO Visual Installer.pdb
+C:\Users\Arshi\Desktop\AIO-INSTALLER-main\AIO Visual Installer\AIO Visual Installer\AIO Visual Installer\obj\Debug\AIO Visual Installer.csproj.SuggestedBindingRedirects.cache
